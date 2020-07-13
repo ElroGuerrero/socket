@@ -9,8 +9,8 @@ import java.util.logging.Logger;
 
 public class clientetcp {
 
-    final String HOST = "127.0.0.1";
-    final int PUERTO = 5000;
+    final String HOST = "www.google.com";
+    final int PUERTO = 80;
     DataInputStream in;
     DataOutputStream out;
 
